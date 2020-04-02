@@ -33,10 +33,6 @@ function recursive(totalDifference){
 }
 
 function ChangeMaker(price, payment) {
-  // const p=0.01
-  // const n=0.05
-  // const d=0.10
-  // const q=0.25
   const newArr=payment.map(x => x * 100)
   const newPrice=price*100
   console.log(newArr)
