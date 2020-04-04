@@ -7,3 +7,4 @@ function aVeryBigSum(ar) {
     
     aVeryBigSum([12343234324,234324234234,234234234,34234234,34234234])
     
+    // Reducer function

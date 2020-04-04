@@ -5,3 +5,5 @@ function simpleArraySum(ar) {
    }, 0)
    return sum
 }
+
+// Reducer function

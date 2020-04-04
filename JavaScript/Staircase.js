@@ -7,3 +7,13 @@ function staircase(x) {
 }
 
 staircase(4)
+
+
+// Takes in a number and creates a staircase of . and # where the bottom
+// row is made of a number of #s equal to the input and ascending until
+// there is only one #
+
+// [ ' ', ' ', ' ', '#' ]
+// [ ' ', ' ', '#', '#' ]
+// [ ' ', '#', '#', '#' ]
+// [ '#', '#', '#', '#' ]
