@@ -17,3 +17,8 @@ function plusMinus(arr) {
   }
   
   plusMinus([-4, 3, -9, 0, 4, 1])
+
+
+  // Takes in an array of positive, negative, and zero integers and 
+  // returns an array of three numbers representing the fraction of
+  // positive, negative, and zero integers in the array. 
