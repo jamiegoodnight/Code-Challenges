@@ -19,3 +19,7 @@ function compareTriplets(a, b) {
 }
 
 compareTriplets(alice, bob)
+
+
+// Compares two tripets against each other and returns an array of 
+// two numbers comparing the number of bigger opposite pairs. 
