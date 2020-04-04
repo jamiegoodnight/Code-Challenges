@@ -45,3 +45,8 @@ function ChangeMaker(price, payment) {
 }
 
 ChangeMaker(0.5, [0.25, 0.25, 0.25])
+
+
+// ChangeMaker takes in a price and an array of coins and returns
+// the most efficient array of pennies, nickles, dimes, and quarters 
+// in change.
